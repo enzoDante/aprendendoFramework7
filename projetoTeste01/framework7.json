@@ -1,0 +1,19 @@
+{
+  "cwd": "D:\\codigo-vsCode\\aprendendoFramework7\\projetoTeste01",
+  "type": [
+    "web"
+  ],
+  "name": "testando",
+  "framework": "core",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
